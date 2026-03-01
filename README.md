@@ -138,7 +138,7 @@ gitnexus analyze --force          # Force full re-index
 gitnexus analyze --skip-embeddings  # Skip embedding generation (faster)
 gitnexus mcp                     # Start MCP server (stdio) — serves all indexed repos
 gitnexus serve                   # Start local HTTP server (multi-repo) for web UI connection
-gitnexus list                    # List all indexed repositories
+gitnexus laist                    # List all indexed repositories
 gitnexus status                  # Show index status for current repo
 gitnexus clean                   # Delete index for current repo
 gitnexus clean --all --force     # Delete all indexes
